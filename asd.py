@@ -1,2 +1,2 @@
-print(asdqwe123cxz)
+print(123)
 
